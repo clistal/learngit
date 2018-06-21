@@ -1,2 +1,2 @@
-This is the first code in git;
-FIGHTING!!!
+This is the first code in my git;
+FIGHTING!!!  now!!!
